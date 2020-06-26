@@ -8,3 +8,5 @@
 #   49  git config --global credential.helper 'cache --timeout 7200'
 
 alias gitup='echo "what is your comment" && read comment && git add . && git commit -m "$comment" && git push -u origin master'
+
+# test comment
